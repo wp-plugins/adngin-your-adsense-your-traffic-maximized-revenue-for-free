@@ -35,9 +35,8 @@ Still not convinced? Using the AdNgin WordPress plugin allows you to tap into an
 1. Download Plugin
 2. Follow Installation Instructions
 3. Register at go.adngin.com
-4. Create Account
-5. Grab secret key under Site Settings
-6. Activate plugin with your site key
+4. Grab secret key under Site Settings
+5. Activate plugin with your site key
 
 == Frequently Asked Questions ==
 ###Do we support all adsense ad units types?###
