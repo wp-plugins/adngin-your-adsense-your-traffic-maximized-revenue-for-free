@@ -4,7 +4,7 @@ Contributors: yayabobi
 Tags: ads, adsense, adsense plugin, advertising, google ads, google adsense, conversion optimization, conversion rate optimization, banner ads, ab test, banner rotation, banner optimization
 Requires at least: 3.0.1
 Tested up to: 4.3.1
-Stable tag: 0.2
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,22 +12,20 @@ Your Adsense, Your Traffic, Maximized Revenue for Free!
 
 
 == Description ==
-AdNgin is an ad revenue optimization platform that uses a unique algorithm to A/B test ads already on your website or add new ones you create. AdNgin’s advanced algorithm never sleeps and continuously suggests new versions to test against. The WordPress plugin offers simple installation and setup. Our dashboard was created using customer feedback to provide a seamless user experience. You can add new ads, customize sizes & color, behavior, exclude pages, and many more exclusive features.
-Still not convinced? Using the AdNgin WordPress plugin allows you to tap into an exclusive advertiser roster that will compete on your inventory. we act as matchmakers, using in-house technology to assure that inventory in the marketplace coincides with level, niche or vertical. AdNgin then displays only the most profitable options.
+AdNgin uses a unique algorithm to continuously A/B test AdSense ad units and imrpove AdSense revenues. The easy to use dashboard provides easy drag-and-drop capabilities so no coding necessary, just magic. The WordPress plugin offers simple installation and setup. Our dashboard was created using customer feedback to provide a seamless user experience. You can add new ads, customize sizes & color, behavior, exclude pages, and many more exclusive features.
+= More Features: =
+*** Turn-Key Solution:** AdNgin integrates with your Adsense account so all your Ad Units can be controlled and manipulated from within AdNgin.
+*** Code-Free:** AdNgin provides code-free deployment of new ad formats or ad units. drag and drop new ads at new page locations and customize the size, color and behavior.
+*** Optimize a Single Page:** AdNgin allows users to create a template for all pages OR optimize each page differently.
+*** Exclude Pages:** With AdNgin you can choose to exclude certain pages from receiving specific ads such as error pages.
+*** Multi-Site:** An account can have multiple sites in it so you can use AdNgin's unique algorithm to optimize multiple sites at the same time.
+*** Mobile Optimization: ** AdNgin is optimized for mobile so mobile traffic can receive mobile optimized banners.
+*** Privacy:** AdNgin does not maintain or share user data with thrid parties including Google.
+*** Perpetual A/B Testing: ** AdNgin’s proprietary Revenue Per Page (RPP) technology uses a Multi-Arm-Bandit algorithm to ceaselessly test various variables and implement and display the ultimate outcome for your visitors.
+*** Customization: ** At AdNgin, we believe that every website is unique, and every website has a unique audience. With so much individuality, AdNgin accounts can customize their analysis to focus and display various performance metrics.
+*** Support: ** Continuos support through the editor or via the website.
 
-##More Features:##
-* Turn-Key Solution: AdNgin integrates with your Adsense account so all your Ad Units can be controlled and manipulated from within AdNgin.
-* Code-Free: AdNgin provides code-free deployment of new ad formats or ad units. drag and drop new ads at new page locations and customize the size, color and behavior.
-* Optimize a Single Page: AdNgin allows users to create a template for all pages OR optimize each page differently.
-* Exclude Pages: With AdNgin you can choose to exclude certain pages from receiving specific ads such as error pages.
-* Multi-Site: An account can have multiple sites in it so you can use AdNgin's unique algorithm to optimize multiple sites at the same time.
-* Mobile Optimization: AdNgin is optimized for mobile so mobile traffic can receive mobile optimized banners.
-* Privacy: AdNgin does not maintain or share user data with thrid parties including Google.
-* Perpetual A/B Testing: Perpetual A/B Testing: AdNgin’s proprietary Revenue Per Page (RPP) technology uses a Multi-Arm-Bandit algorithm to ceaselessly test various variables and implement and display the ultimate outcome for your visitors.
-* Customization:  At AdNgin, we believe that every website is unique, and every website has a unique audience. With so much individuality, AdNgin accounts can customize their analysis to focus and display various performance metrics.
-* Support: Continuos support through the editor or via the website.
-
-##What our users say:##
+**What our users say:**
 >Adngin’s simple Adsense optimisation solution and knowledgeable team really delivered. I saw results immediately and continue to do so: revenue has increased by 18% and click-through rates by 69%. If you’re not using Adngin, you should try it! 
 *Loic Forget*, Digital Director, La Sentinelle
 
