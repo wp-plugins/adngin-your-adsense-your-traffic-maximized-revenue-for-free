@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Your Adsense, Your Traffic, Maximized Revenue for Free!
+Your AdSense, Your Traffic, Maximized Revenue
 
 
 == Description ==
@@ -36,9 +36,6 @@ AdNgin uses a unique algorithm to continuously A/B test AdSense ad units and imr
 5. Paste the Secret key into the plugin to connect your site to AdNgin (see screenshot)
 6. Go to go.adngin.com to start optimizing (see screenshot)
 
-== Screenshots ==
-Here a re a few installation screenshots.
-
 == Frequently Asked Questions ==
 ###Do we support all adsense ad units types?###
 Yes. AdNgin supports all Adsense ad units.
@@ -65,3 +62,9 @@ Our typical users are website owners with anywhere between 1,000 daily pageviews
 ###Can I exclude certain pages?###
 Yes. you can choose to include or exclude at the page level. This is a feature not currently available for Adsense users but is possible when you optimize your Adsense through AdNgin.
 
+== Screenshots ==
+Here are a few installation screenshots.
+
+1. This screen shot description corresponds to screenshot-1.png
+2. This screen shot description corresponds to screenshot-2.png
+3. This screen shot description corresponds to screenshot-3.png
