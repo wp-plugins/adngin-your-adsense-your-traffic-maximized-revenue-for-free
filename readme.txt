@@ -31,10 +31,13 @@ AdNgin uses a unique algorithm to continuously A/B test AdSense ad units and imr
 
 == Installation ==
 1. Download Plugin
-2. Follow Installation Instructions
-3. Register at go.adngin.com
-4. Grab secret key under Site Settings
-5. Activate plugin with your site key
+2. Register at go.adngin.com/register
+4. Grab secret key under Site Settings (see screenshot)
+5. Paste the Secret key into the plugin to connect your site to AdNgin (see screenshot)
+6. Go to go.adngin.com to start optimizing (see screenshot)
+
+== Screenshots ==
+Here a re a few installation screenshots.
 
 == Frequently Asked Questions ==
 ###Do we support all adsense ad units types?###
