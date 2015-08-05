@@ -7,7 +7,7 @@
 
   <!-- <h2>Adngin</h2> -->
 
-  <p>Do you have an Adngin account? If not, <a href="#">create one</a> - it's 100% free.</p>
+  <p>Do you have an Adngin account? If not, <a target="_blank" href="http://go.adngin.com/register">create one</a> - it's 100% free.</p>
 
   <p>Connect your site to Adngin</p>
 
@@ -30,6 +30,6 @@
 
   </form>
 
-  <p>Need help? <a href="#">Contact Us!</a></p>
+  <p>Need help? <a href="http://www.adngin.com">Contact Us!</a></p>
 
 </div>
